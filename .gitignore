@@ -398,3 +398,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# User Secrets
+secrets.json
+
+
+
